@@ -1,0 +1,57 @@
+.bg-intro {
+  background-image: url("assets/logo1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 3%;
+  display: flex;
+  flex-direction: row;
+}
+
+.container-fluid {
+  background-color: rgb(255, 255, 255);
+}
+
+.intro {
+  color: #fff;
+  font-size: 20px;
+  margin-top: 2%;
+}
+
+.img-logo {
+  margin-left: 60%;
+  margin-top: -20%;
+}
+
+.top {
+  padding-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.card-top {
+  display: flex;
+  flex-direction: row;
+  gap: 1%;
+}
+
+/* VGA */
+.card-vga {
+  max-width: 100%;
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.cart {
+  color: blue;
+  margin-top: 1%;
+  cursor: pointer;
+}
+
+.cart:hover {
+  color: black;
+}
+
+.btn-cart {
+  margin-left: 90%;
+}

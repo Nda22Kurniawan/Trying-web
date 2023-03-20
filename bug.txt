@@ -1,0 +1,19 @@
+: 384-bit
+              <br>
+              OUTPUT :
+              <br>
+              DisplayPort x 3 (v1.4a)
+              <br> HDMI x 1 (Supports 4K 120Hz HDR, 8K 60Hz HDR and Variable Refresh Rate as specified in HDMI 2.1)
+              <br> HDCP SUPPORT : Y
+              <br> POWER CONSUMPTION : 450W
+              <br> POWER CONNECTORS : 16-pin x1
+              <br> RECOMMENDED PSU : 850W
+              <br> CARD DIMENSION (MM) : 325 x 140 x 62 mm
+              <br> WEIGHT (CARD / PACKAGE) : 1683g / 2636g
+              <br> DIRECTX VERSION SUPPORT : 12 Ultimate
+              <br> OPENGL VERSION SUPPORT : 4.6
+              <br> NVLINK SUPPORT : Y
+              <br> MAXIMUM DISPLAYS : 4
+              <br> VR READY : Y
+              <br> G-SYNC® TECHNOLOGY : Y
+              <br> DIGITAL MAXIMUM RESOLUTION : 7680x4320</small></p>
